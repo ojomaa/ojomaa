@@ -1,4 +1,4 @@
-### Hi there 👋 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ojomaa)  
+### [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ojomaa)   Hi there 👋 [<img  
 
 #### My name is Omar Jomaa
 
