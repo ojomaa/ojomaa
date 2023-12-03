@@ -6,7 +6,7 @@
 - Skills: PYTHON / DJANGO / JS / REACT / HTML / CSS
 
 🌱 I’m currently learning **AI/ML** in Python
-- PYTHON / PYTORCH / TENSORFLOW / SCIKIT-LEARN / NLTK
+- Skills: PYTHON / PYTORCH / TENSORFLOW / SCIKIT-LEARN / NLTK
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojomaa&layout=compact)
  
