@@ -3,7 +3,7 @@
 #### My name is Omar Jomaa
 
 🔭 I’m currently working on **Web Development** Projects 
-- Skills: PYTHON / DJANGO / JS / REACT / HTML / CSS
+- Skills: PYTHON / JS / DJANGO / REACT / HTML / CSS
 
 🌱 I’m currently learning **AI/ML** in Python
 - Skills: PYTHON / PYTORCH / TENSORFLOW / SCIKIT-LEARN / NLTK
