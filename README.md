@@ -3,7 +3,7 @@
 #### 🔭 Full-Stack Development
 Currenlty working on End-To-End web projects that use Python/Django for Back-End and API development, while using Javascript, React and CSS for Front-End Development. I am also exploring Docker to containerize the projects and AWS to deploy them on the Web!
   
-- Languages: PYTHON / JS / DJANGO / REACT / OPENCV / PANDAS / HTML / CSS
+- Languages: PYTHON / JS / HTML / CSS
 - Frameworks and Libraries: DJANGO / REACT / OPENCV / PANDAS
 - Technologies: DOCKER / AWS EC2
 
