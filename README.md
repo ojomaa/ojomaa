@@ -1,14 +1,17 @@
 ### Hi there 👋, I'm Omar!
 
-#### 🔭 Web Development
+#### 🔭 Full-Stack Development
 Currenlty working on End-To-End web projects that use Python/Django for Back-End and API development, while using Javascript, React and CSS for Front-End Development. I am also exploring Docker to containerize the projects and AWS to deploy them on the Web!
   
-Skills: PYTHON / JS / DJANGO / REACT / HTML / CSS
+Languages: PYTHON / JS / DJANGO / REACT / OPENCV / PANDAS / HTML / CSS
+Frameworks and Libraries: DJANGO / REACT / OPENCV / PANDAS
+Technologies: DOCKER / AWS EC2
 
 #### 🌱 Learning AI/ML
 Taking a deep dive into Artifical Intelligence from the basic concepts such as Search Algorithms all the way up to more advanced concepts such as Neural Networks and Natural Language Processing!
 
-Skills: PYTHON / PYTORCH / TENSORFLOW / SCIKIT-LEARN / NLTK
+Languages: PYTHON
+Frameworks and Libraries: PYTORCH / TENSORFLOW / SCIKIT-LEARN / NLTK
 
 #### Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojomaa&layout=compact)
