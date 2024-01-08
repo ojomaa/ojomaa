@@ -2,7 +2,7 @@
 
 #### 🔭 Full-Stack Development
   
-- Languages: PYTHON / Java / JS / HTML / CSS
+- Languages: PYTHON / JAVA / JS / HTML / CSS
 - Frameworks and Libraries: DJANGO / REACT / OPENCV / PANDAS
 - Technologies: DOCKER / AWS EC2
 
